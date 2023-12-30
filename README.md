@@ -94,8 +94,8 @@ if _name_ == '_main_':
 ## MobileRobot Movement Image:
 
 Insert image here
+![Screenshot 2023-12-30 101530](https://github.com/sasintharparanthaman/mobilerobot-openloopcontrol/assets/145743219/17e63701-7068-426d-ad42-866450f3ac6f)
 
-![Alt text](<Screenshot 2023-12-30 101530.png>)
 
 ## MobileRobot Movement Video:
 
